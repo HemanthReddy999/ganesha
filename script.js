@@ -11,7 +11,7 @@ const peopleByYear = {
   "2023": ["Person Name 1", "Person Name 2", "Person Name 3"],
   "2024": ["Person Name 1", "Person Name 2", "Person Name 3"],
   "2025": ["Person Name 1", "Person Name 2", "Person Name 3"],
-  "2026": ["Person Name 1", "Person Name 2", "Person Name 3"]
+  "2026": ["కర్రి అప్పారెడ్డి గారి కుమారుడు సత్య సూర్యనారాయణ రెడ్డి", "Person Name 2", "Person Name 3"]
 };
 
 const yearsContainer = document.getElementById("years");
